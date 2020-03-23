@@ -12,7 +12,7 @@ You will be asked to enter the following information
 <img src="https://media.giphy.com/media/iIMAtlkh48uPUsRqkW/giphy.gif" alt="basic-controls" style="max-width:100%;">
 
 # In Game
-Please note that the recording software was not able to pick up the pop-up error messages whenever a player tries to place a checker above an empty column/slow.
+<b>Please note:</b> that the recording software was not able to pick up the pop-up error messages whenever a player tries to place a checker above an empty column/slow, same goes for winning a game.
 
 <img src="https://media.giphy.com/media/SSQrG33qWPJUHp6oBy/giphy.gif" alt="basic-controls" style="max-width:100%;">
 
