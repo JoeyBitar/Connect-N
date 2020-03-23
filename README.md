@@ -9,4 +9,4 @@ You will be asked to enter the following information
   <li>The desired row and column size</li>
   <li>The number of matching colours to win the game.</li>
 </ul>
-![ConnectN](https://user-images.githubusercontent.com/62488559/77268590-d7c55600-6c7c-11ea-9a1a-64dfa9742c95.gif)
+![giphy](https://user-images.githubusercontent.com/62488559/77268725-338fdf00-6c7d-11ea-88f3-e127d03c24f3.gif)
