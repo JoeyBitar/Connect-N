@@ -9,4 +9,4 @@ You will be asked to enter the following information
   <li>The desired row and column size</li>
   <li>The number of matching colours to win the game.</li>
 </ul>
-![giphy](https://user-images.githubusercontent.com/62488559/77268725-338fdf00-6c7d-11ea-88f3-e127d03c24f3.gif)
+<iframe src="https://giphy.com/embed/iIMAtlkh48uPUsRqkW" width="480" height="266" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/iIMAtlkh48uPUsRqkW">via GIPHY</a></p>
