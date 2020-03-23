@@ -15,3 +15,5 @@ You will be asked to enter the following information
 Please note that the recording software was not able to pick up the pop-up error messages whenever a player tries to place a checker above an empty column/slow.
 
 <img src="https://media.giphy.com/media/SSQrG33qWPJUHp6oBy/giphy.gif" alt="basic-controls" style="max-width:100%;">
+
+a project by Joey Bitar.
