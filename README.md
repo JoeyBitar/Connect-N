@@ -9,4 +9,10 @@ You will be asked to enter the following information
   <li>The desired row and column size</li>
   <li>The number of matching colours to win the game.</li>
 </ul>
-<div style="width:100%;height:0;padding-bottom:55%;position:relative;"><iframe src="https://giphy.com/embed/iIMAtlkh48uPUsRqkW" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/iIMAtlkh48uPUsRqkW">via GIPHY</a></p>
+<img src="https://media.giphy.com/media/iIMAtlkh48uPUsRqkW/giphy.gif" alt="basic-controls" style="max-width:100%;">
+<br>
+
+# In-Game
+Please note that the recording software was not able to pick up the pop-up error messages whenever a player tries to place a checker above an empty column/slow.
+
+<img src="https://media.giphy.com/media/SSQrG33qWPJUHp6oBy/giphy.gif" alt="basic-controls" style="max-width:100%;">
