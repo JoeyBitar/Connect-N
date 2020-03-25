@@ -1,5 +1,5 @@
 # Connect-N
-First attempt at making a customizable Connect-4 game in Java. This program was part of an assignment. I will go through all the functionality of the program.
+First attempt at making a customizable Connect-4 game in Java. This program was part of an assignment at Heritage College. I will go through all the functionality of the program.
 <br>
 
 # Functionality
